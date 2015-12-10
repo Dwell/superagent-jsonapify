@@ -1,6 +1,6 @@
 {
-  "name": "superagent-jsonapify",
-  "version": "1.4.0",
+  "name": "@dwell/superagent-jsonapify",
+  "version": "1.4.2",
   "description": "A lightweight json-api client addon for superagent",
   "main": "index.js",
   "browser": "browser.js",
